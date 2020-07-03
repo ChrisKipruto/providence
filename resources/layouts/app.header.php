@@ -14,6 +14,5 @@
     <link rel="stylesheet" href="../../../public/css/font-awesome/css/all.min.css">
     <!-- favicon -->
     <link rel="shortcut icon" href="../../../public/img/logo/logo1.png" type="image/x-icon">
-
     
     
