@@ -10,8 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.1",
     "autoprefixer": "^9.8.4",
     "bootstrap": "^4.5.0",
+    "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
     "mdbootstrap": "^4.19.1",
     "postcss-cli": "^7.1.1",
