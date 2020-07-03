@@ -9,9 +9,9 @@
     <!-- tailwind css -->
     <link rel="stylesheet" href="../../../public/css/build/tailwind.css">
     <!-- style css -->
-    <link rel="stylesheet" href="../../..//public/css/style.css">
+    <link rel="stylesheet" href="../../../public/css/style.css">
     <!-- font awesome -->
-    <link rel="stylesheet" href="/public/css/font-awesome/css/all.min.css">
+    <link rel="stylesheet" href="../../../public/css/font-awesome/css/all.min.css">
     <!-- favicon -->
     <link rel="shortcut icon" href="../../../public/img/logo/logo1.png" type="image/x-icon">
 

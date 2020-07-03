@@ -2,7 +2,7 @@
 <?php require '../../layouts/app.header.php'; ?>
     <title>App Title</title>
     </head>
-<body>
+<body class="bg-gray-100">
 <!-- end app header -->
 
 <!-- header -->
@@ -13,7 +13,7 @@
 
 <!-- main content -->
 <main>
-
+    
 </main>
 <!-- end main content -->
 
