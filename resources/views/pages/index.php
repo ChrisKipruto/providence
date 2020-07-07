@@ -2,11 +2,11 @@
 <?php require '../../layouts/app.header.php'; ?>
     <title>Providence &bull; Home</title>
     </head>
-<body class="bg-gray-200">
+<body class="light-blue lighten-5">
 <!-- end app header -->
 
 <!-- header -->
-<header>
+<header class="">
     <!-- navbar -->
     <?php include '../../includes/home-nav.php'; ?>
 </header>

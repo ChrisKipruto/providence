@@ -1,10 +1,10 @@
-<nav class="navbar navbar-expand-lg navbar-light grey lighten-4 shadow-none">
+<nav class="navbar navbar-expand-lg navbar-light light-blue lighten-4 shadow-md fixed-top">
     <!-- nav container -->
     <div class="container-fluid">
         <!-- navbar brand -->
         <a href="<?php echo $_SERVER['PHP_SELF']; ?>"
             class="navbar-brand outline-none d-flex align-items-center">
-            <img src="../../../public/img/logo/logo1.png" class="h-12" alt="Providence Brand Logo">
+            <img src="../../../public/img/logo/logo1.png" class="h-14" alt="Providence Brand Logo">
             <span class="uppercase pink-text font-bold text-2xl pl-2">
                 <!-- Pro -->
             </span>

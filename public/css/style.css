@@ -4,6 +4,10 @@ html, body {
     font-family: 'Sulphur Point', sans-serif;
 }
 
+.h-14 {
+    height: 3.2rem;
+}
+
 .font-navbar {
     font-size: .85rem;
     font-weight: 700;
@@ -11,6 +15,6 @@ html, body {
 }
 
 a.font-navbar:hover {
-    color: #e91e63 !important;
+    color: #03a9f4 !important;
     transition: all ease-in-out .2s;
 }
