@@ -1,4 +1,7 @@
-<nav class="navbar navbar-expand-lg navbar-light light-blue lighten-4 shadow-md fixed-top">
+<?php
+    $path = "/dev/providence/resources/views/";
+?>
+<nav class="navbar navbar-expand-lg navbar-light light-blue lighten-4 shadow-sm fixed-top">
     <!-- nav container -->
     <div class="container-fluid">
         <!-- navbar brand -->
@@ -21,7 +24,7 @@
             <!-- Left Side -->
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a href="#" class="nav-link outline-none font-navbar">Home</a>
+                    <a href="<?php echo $path . 'pages/index.php'; ?>" class="nav-link outline-none font-navbar">Home</a>
                 </li>
 
                 <li class="nav-item">
@@ -40,7 +43,7 @@
             <!-- Right Side -->
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a href="#" class="nav-link outline-none font-navbar">Sign Up</a>
+                    <a href="<?php echo $path . 'auth/signup.php'; ?>" class="nav-link outline-none font-navbar">Sign Up</a>
                 </li>
 
                 <li class="nav-item">
